@@ -1,0 +1,16 @@
+# Vivado generated output
+*.runs/
+*.cache/
+*.sim/
+*.hw/
+*.gen/
+*.ip_user_files/
+.Xil/
+
+# Logs, journals and checkpoints
+*.jou
+*.log
+*.dcp
+
+# Project archive summary
+archive_project_summary.txt

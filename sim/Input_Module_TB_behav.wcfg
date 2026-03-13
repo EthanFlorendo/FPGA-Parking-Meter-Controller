@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="Input_Module_TB_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="Input_Module_TB" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="1,150.230 ns"></ZoomEndTime>
+      <Cursor1Time time="1,000.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="340"></NameColumnWidth>
+      <ValueColumnWidth column_width="125"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="10" />
+   <wvobject fp_name="/Input_Module_TB/clk100Mhz" type="logic">
+      <obj_property name="ElementShortName">clk100Mhz</obj_property>
+      <obj_property name="ObjectShortName">clk100Mhz</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Input_Module_TB/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Input_Module_TB/BTNU" type="logic">
+      <obj_property name="ElementShortName">BTNU</obj_property>
+      <obj_property name="ObjectShortName">BTNU</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Input_Module_TB/BTND" type="logic">
+      <obj_property name="ElementShortName">BTND</obj_property>
+      <obj_property name="ObjectShortName">BTND</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Input_Module_TB/BTNR" type="logic">
+      <obj_property name="ElementShortName">BTNR</obj_property>
+      <obj_property name="ObjectShortName">BTNR</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Input_Module_TB/BTNL" type="logic">
+      <obj_property name="ElementShortName">BTNL</obj_property>
+      <obj_property name="ObjectShortName">BTNL</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Input_Module_TB/BTN0_pulse" type="logic">
+      <obj_property name="ElementShortName">BTN0_pulse</obj_property>
+      <obj_property name="ObjectShortName">BTN0_pulse</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Input_Module_TB/BTN1_pulse" type="logic">
+      <obj_property name="ElementShortName">BTN1_pulse</obj_property>
+      <obj_property name="ObjectShortName">BTN1_pulse</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Input_Module_TB/BTN2_pulse" type="logic">
+      <obj_property name="ElementShortName">BTN2_pulse</obj_property>
+      <obj_property name="ObjectShortName">BTN2_pulse</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Input_Module_TB/BTN3_pulse" type="logic">
+      <obj_property name="ElementShortName">BTN3_pulse</obj_property>
+      <obj_property name="ObjectShortName">BTN3_pulse</obj_property>
+   </wvobject>
+</wave_config>
